@@ -1,0 +1,13 @@
+# Env files
+.env
+.env.*
+*.env
+*.env.*
+stacks-whisperer/.env
+stacks-whisperer/.env.*
+# Other common secrets
+*.pem
+*.key
+*.p12
+*.keystore
+*.jks
