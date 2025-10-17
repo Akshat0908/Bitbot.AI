@@ -1,0 +1,7 @@
+project_id = "mctgemetskunzayuvuaq"
+
+[functions.analyze-wallet]
+verify_jwt = false
+
+[functions.fetch-transactions]
+verify_jwt = false
